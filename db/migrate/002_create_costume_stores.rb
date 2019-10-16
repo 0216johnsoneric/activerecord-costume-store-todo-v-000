@@ -8,7 +8,7 @@ class CreateCostumeStores < ActiveRecord::Migration[4.2]
       t.timestamps null: false
       t.integer :num_of_employees
       t.boolean :still_in_business
-      t.
+    
 
     end
   end
